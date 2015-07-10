@@ -959,10 +959,10 @@
   </div>
 
   
-    <p class="caption text-over-media-caption main-text-is-center">Farah Majeed was a senior in high school when her family's home was struck by lightning. Although she graduated, she missed many of the celebratory end-of-year events due to extensive repairs that were required for the home, some of which the family completed own its own.</p>
+    <p class="caption text-over-media-caption main-text-is-center">Farah Majeed was a senior in high school when her family's home was struck by lightning. Although she graduated, she missed many of the celebratory end-of-year events due to extensive repairs that were required for the home, some of which the family completed on its own.</p>
   
 
-  <img alt="Farah Majeed was a senior in high school when her family&#x27;s home was struck by lightning. Although she graduated, she missed many of the celebratory end-of-year events due to extensive repairs that were required for the home, some of which the family completed own its own." data-landscape-src="./media/final-screen---landscape-hr.jpg" data-portrait-src="./media/final-screen---portrait-hr.jpg" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
+  <img alt="Farah Majeed was a senior in high school when her family&#x27;s home was struck by lightning. Although she graduated, she missed many of the celebratory end-of-year events due to extensive repairs that were required for the home, some of which the family completed on its own." data-landscape-src="./media/final-screen---landscape-hr.jpg" data-portrait-src="./media/final-screen---portrait-hr.jpg" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
 </div>
 
 <script>
